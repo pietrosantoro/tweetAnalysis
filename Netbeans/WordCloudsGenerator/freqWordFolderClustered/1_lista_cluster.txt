@@ -1,0 +1,16 @@
+vcfjuve = 726
+finoallafine = 701
+forza = 402
+ragazzi = 347
+grande = 338
+gioca = 320
+momento = 304
+notte = 260
+cuore = 256
+personalità = 251
+altra = 250
+qualità = 236
+questa = 169
+porta = 128
+abbiamo = 125
+tutto = 117
